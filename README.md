@@ -1,6 +1,9 @@
 # Hi! I'm Laura 👋
-💻 Student of Dual Degree in Web Application Development (DAW) and Cross-Platform Application Development (DAM)
+
+### 💻 Student of Dual Degree in Web Application Development (DAW) and Cross-Platform Application Development (DAM)
+
 I'm a DAW/DAM student based in Málaga, with a background in Microcomputer Systems and Networks (SMR).
+
 I'm particularly interested in web development and interface design. I enjoy blending technical skills with creativity to build attractive, intuitive, and functional websites. I'm always looking to learn new technologies and sharpen my skills.
 
 ## 🛠️ Technologies and Tools
@@ -35,14 +38,13 @@ I'm particularly interested in web development and interface design. I enjoy ble
 - Artificial intelligence applied to development.
 - Continuous learning and new projects.
 
-## 🚀 Proyects
+## 🚀 Projects
 
 In this profile, you'll find academic and personal projects where I apply my knowledge and keep learning.
 
 ## 📫 Contact
 
 - ✉️ Email: laurahoyos.1097@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/laura-hoyos-484809338/)
-- 🐙 GitHub: (https://github.com/laurahoyos1097)
-- 🌐 Portfolio en Notion: (https://app.notion.com/p/Portfolio-1427109a204980a49a28fbad8a8b8bb7)
-
+- 💼 LinkedIn: [laura-hoyos](https://www.linkedin.com/in/laura-hoyos-484809338/)
+- 🐙 GitHub: [laurahoyos1097](https://github.com/laurahoyos1097)
+- 🌐 Notion Portfolio: [My Portfolio](https://app.notion.com/p/Portfolio-1427109a204980a49a28fbad8a8b8bb7)
