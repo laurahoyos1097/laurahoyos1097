@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/c6f5593c-f364-4baa-b719-a288a823b7ca" />
 # Hi! I'm Laura 👋
 
 ### 💻 Student of Dual Degree in Web Application Development (DAW) and Cross-Platform Application Development (DAM)
