@@ -46,6 +46,6 @@ In this profile, you'll find academic and personal projects where I apply my kno
 ## 📫 Contact
 
 - ✉️ Email: laurahoyos.1097@gmail.com
-- 💼 LinkedIn: [laura-hoyos](https://www.linkedin.com/in/laura-hoyos-484809338/)
+- 💼 LinkedIn: [laura-hoyos](https://www.linkedin.com/in/laurahoyos1097/)
 - 🐙 GitHub: [laurahoyos1097](https://github.com/laurahoyos1097)
 - 🌐 Notion Portfolio: [My Portfolio](https://app.notion.com/p/Portfolio-1427109a204980a49a28fbad8a8b8bb7)
