@@ -1,4 +1,5 @@
 <img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/c6f5593c-f364-4baa-b719-a288a823b7ca" />
+
 # Hi! I'm Laura 👋
 
 ### 💻 Student of Dual Degree in Web Application Development (DAW) and Cross-Platform Application Development (DAM)
@@ -48,4 +49,4 @@ In this profile, you'll find academic and personal projects where I apply my kno
 - ✉️ Email: laurahoyos.1097@gmail.com
 - 💼 LinkedIn: [laurahoyos1097](https://www.linkedin.com/in/laurahoyos1097/)
 - 🐙 GitHub: [laurahoyos1097](https://github.com/laurahoyos1097)
-- 🌐 Notion Portfolio: [My Portfolio](https://app.notion.com/p/Portfolio-1427109a204980a49a28fbad8a8b8bb7)
+- 🌐 Portfolio: [My Portfolio](https://laurahoyos.vercel.app)
